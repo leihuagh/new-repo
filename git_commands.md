@@ -34,11 +34,3 @@ git diff
 git add .
 git diff --cached
 ```
-
-## git log
-
-```
-git log
-git log --grap
-```
-
