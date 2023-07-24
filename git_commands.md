@@ -19,3 +19,11 @@ git status
 ```
 
 - The file `example.md` will become green, which means it is on the state
+
+## Finding the Different Between the Commits
+
+- The command is `git diff`
+
+```
+git diff
+```
