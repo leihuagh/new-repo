@@ -1,6 +1,6 @@
 # Connect Local Existing Project to GitHub
 
-## Steps
+## Steps!
 
 ## Working on GitHub:
 

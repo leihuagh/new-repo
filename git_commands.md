@@ -27,3 +27,10 @@ git status
 ```
 git diff
 ```
+
+## Check Stagged Difference
+
+```
+git add .
+git diff --cached
+```
